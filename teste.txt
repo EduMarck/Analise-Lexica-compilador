@@ -1,0 +1,10 @@
+GARRAFA BAR{
+GARRAFA a,b = 7.6;
+LITRAO C = 9.aae;
+
+TRAZ_OUTRA(GARRAFA i = 0; i<b; i = i + 1){
+	DESCE_REDONDO("Hello World EEpa");
+      "8 , "-, "Jeleia",2aat;
+}
+ZEROU_POR_HOJE 0;
+}
